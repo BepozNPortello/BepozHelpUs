@@ -20,7 +20,11 @@ products:
       You can find helpful training material and basic information about the
       Bepoz software from the link below
 values:
-  heading: ''
-  text: ''
+  heading: SUPPORT COST
+  text: >-
+    Please read the information below regarding billable vs non-billable time.
+    All phone calls are considered billable, until determined otherwise. Support
+    emails can be sent to Support@bepoz.com regardless of billable or
+    non-billable.
 ---
 
