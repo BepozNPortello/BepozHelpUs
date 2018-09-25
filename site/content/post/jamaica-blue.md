@@ -1,28 +1,52 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 5 Ways POS Customer Engagement Can Change Your Business
+date: '2017-08-01T10:04:00-04:00'
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Face-to-face interaction with customers will always be important, but in
+  today’s technologically savvy world, the way your point-of-sale (POS) system
+  interacts with your customers could be just as equally important. Here are 5
+  ways a Bepoz POS can change your retail or restaurant business through
+  customer engagement in a good way.
+image: /img/using-laptop-l-640x427.jpg
 ---
+1. Customized Promotions
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history
+Most customers like a great deal. Your POS system can recognize when it’s time to send a promotion. It can also identify the customers that are likely to respond. For example, set up a mechanism in your POS software to let you know who bites at the “Buy One, Get One” offer. Send that customer another similar promotion at a later time. Check to see who used the “Happy Hour Special” and send those patrons another similar offer. Now you have two promotions going on that are customized to the customers who are most likely to respond to those offers.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+2. Royal Treatment for Loyalty
 
-## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Customer Loyalty promotions are another way to provide incentives to those who frequent your restaurant or retail business, and Bepoz has one of the best-integrated customer loyalty systems in the industry. Build the element of surprise in your program by creating random prize promotions at certain levels of purchases, frequent visits, etc. For example, you might have bronze, silver, and gold-tiered levels in your retail shop. Send a notification to let customers know when they might be close to moving up in your loyalty program, by providing incentives to purchase higher priced items and more often in a certain time period.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
 
+
+3. Targeted Ads
+
+
+
+There are many ways to promote, and the best place is inside your retail store or restaurant. Consider a digital customer display to promote videos or images of entrees, products, services, etc. Strategically place these at the POS, end-caps, customer inquiry terminals, and even door check in stations.
+
+
+
+4. Send Emails and SMS/Texts
+
+
+
+Did you know that 95% of texts are read within three minutes of being sent? Why not text your customers who opt-in to your SMS list your promotions right from your POS system? Track who is opening or using this service with your POS. Then apply vouchers to customer accounts or profiles and surprise them on their next visit.
+
+
+
+ 5. Track Memberships
+
+
+
+Perhaps you have dues or monthly subscriptions unsettled, find out who owes what and when. Or dive into the metrics to see who is purchasing what and when they are buying. You can learn their habits quickly by finding patterns within your POS software.
+
+
+
+How would you like to improve your restaurant or retail store’s customer engagement? We hope these simple solutions give you a better idea of what Bepoz can do for you when it comes to better customer engagement. Give us a call today to set up a demo.
